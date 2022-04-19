@@ -8,7 +8,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/daniyar135/flam/main/Trainin
 app = Dash(__name__)
 server = app.server
 
-fig = px.bar(df, y="Pass Rate", x="Courses", barmode="group")
+fig = px.bar(df, y="Pass Rate", x="Group Courses Taken", color="Warehouse Name", barmode="group")
 
 app.layout = html.Div(children=[
     html.H1(children='FLAM Dashboard'),
