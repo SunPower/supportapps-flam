@@ -4,13 +4,13 @@ import plotly.express as px
 import pandas as pd
 import os
 
-df = pd.read_csv('https://raw.githubusercontent.com/daniyar135/flam/main/Training%20Hours%20VS%20Pass%20Rate.csv')
-df1 = pd.read_csv('https://raw.githubusercontent.com/daniyar135/flam/main/Training%20Hours%20VS%20Pass%20Rate%20Dealer.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/daniyar135/flam/main/SPRI.csv')
+df1 = pd.read_csv('https://raw.githubusercontent.com/daniyar135/flam/main/Dealer.csv')
 app = Dash(__name__)
 server = app.server
 
-fig = px.scatter(df, y="Pass Rate", x="Group Courses Taken", color="Warehouse Name", size="Group Courses Taken")
-fig1 = px.scatter(df1, y="Pass Rate", x="Courses Taken", color="Dealer Name", size="Courses Taken")
+fig = px.scatter(df, y="Pass Rate", x="Courses Taken", color="Code", size="Courses Taken")
+fig1 = px.scatter(df1, y="Pass Rate", x="Courses Taken", color="Code", size="Number of QA Audits")
 
 app.layout = html.Div(children=[
     html.H1(children='FLAM Dashboard'),
