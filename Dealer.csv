@@ -1,0 +1,630 @@
+Code,Account,Courses Taken,Pass Rate,Number of Audits
+Dealer 1,15 light years,23,0.76,25
+Dealer 2,21st century power solutions llc,2,0,1
+Dealer 3,360 solar energy inc,4,0,1
+Dealer 4,93 energy,6,1,3
+Dealer 5,a & r solar corporation,3,0,2
+Dealer 6,a.m. shine electric inc,2,0,1
+Dealer 7,a.m. sun solar energy systems,1,0,1
+Dealer 8,a1 sun inc,6,0,1
+Dealer 9,above all construction,0,0,1
+Dealer 10,absolute electric and solar,3,0,1
+Dealer 11,absolutely energized solar electric inc,2,0,1
+Dealer 12,"absolute solar, llc",0,0,3
+Dealer 13,a-c electric company,8,0,1
+Dealer 14,ac solar,4,0,1
+Dealer 15,accessible solar and energy storage inc,2,0,1
+Dealer 16,acro electric inc,5,0,1
+Dealer 17,active solar inc,2,0,1
+Dealer 18,accord power inc,0,0,1
+Dealer 19,ad solar inc,2,0,1
+Dealer 20,"adce investments llc, dba vale sollar",9,0,3
+Dealer 21,advanced alternative energy solutions,4,1,1
+Dealer 22,ad energy,0,0,52
+Dealer 23,advanced solar electric,1,0,1
+Dealer 24,aec solar energy corp,130,0.9,10
+Dealer 25,aegis electrical systems llc,8,0,1
+Dealer 26,aeon solar,2,0,1
+Dealer 27,"air sun, inc",126,0.833333333,42
+Dealer 28,airstream services,1,0,1
+Dealer 29,albion power,3,0,1
+Dealer 30,all in 1 energy pros,1,0,1
+Dealer 31,all solar & energy solutions llc,2,0,1
+Dealer 32,all solar electric inc,5,0,1
+Dealer 33,allen energy,9,0,1
+Dealer 34,all bay solar,0,0,18
+Dealer 35,allied energy inc,2,0,1
+Dealer 36,all bay solar construction inc,0,0,3
+Dealer 37,allterra solar,18,0,1
+Dealer 38,allura solar,2,0,1
+Dealer 39,all on electric inc,0,0,3
+Dealer 40,altenergy,2,0,1
+Dealer 41,"alteris renewables inc, dba real goods solar",10,0,1
+Dealer 42,alternative energy systems inc,125,0.689655172,29
+Dealer 43,alternative energy technologies llc,4,0,1
+Dealer 44,"alternative power generation inc, dba apg solar",2,0,1
+Dealer 45,ambassador energy inc,2,0,1
+Dealer 46,ambrose construction,880,0.795454545,88
+Dealer 47,ameco solar inc,6,0,1
+Dealer 48,american renewable energy,10,0,1
+Dealer 49,american solar,7,0,1
+Dealer 50,ameritech solar,1,0,1
+Dealer 51,andy's heating and airconditioning inc,4,0,1
+Dealer 52,"angle homes inc, dba angle solar solution",6,0,1
+Dealer 53,anthony fiore construction inc,2,0,1
+Dealer 54,anthony lewis inc,3,0,1
+Dealer 55,apex solar inc,2,0,1
+Dealer 56,aram solar,3,0,1
+Dealer 57,are solar,2,0,1
+Dealer 58,amgreen solutions inc,0,0,1
+Dealer 59,argand energy solutions,7,0,1
+Dealer 60,arise solar,27,0.666666667,3
+Dealer 61,arizona solar concepts,210,0.828571429,35
+Dealer 62,arizona solar power llc,6,0,1
+Dealer 63,"arizona solar solutions, dba premier solar solutions",12,0,1
+Dealer 64,astrum solar,1,0,1
+Dealer 65,atomic solar energy inc,4,0,1
+Dealer 66,aurora energy inc,12,0,1
+Dealer 67,aztec solar power llc,8,0,1
+Dealer 68,baker renewable energy,4,0,1
+Dealer 69,barnum & celillo electric inc,1,0,1
+Dealer 70,bass electric,1,0,1
+Dealer 71,bay area energy solutions,1,0,1
+Dealer 72,"bay area solar solutions inc, dba your energy solutions",4,0,1
+Dealer 73,beaumont solar company,3,0,1
+Dealer 74,august roofing inc,0,0,1
+Dealer 75,befree green energy llc,2,0,1
+Dealer 76,berg electric inc,2,0,1
+Dealer 77,berger solar electric,24,0.666666667,6
+Dealer 78,bestway mechanical,5,0,1
+Dealer 79,beutler corporation,2,0,1
+Dealer 80,bland a/c and heating inc,2,0,1
+Dealer 81,blue raven solar holdings llc,30,0,1
+Dealer 82,bluesel home solar,30,0.333333333,6
+Dealer 83,bombard electric llc,3,0,1
+Dealer 84,bonterra services,2,0,1
+Dealer 85,bresco,2,0,1
+Dealer 86,brighter electric inc,2,0,1
+Dealer 87,bertrand darimont sprl,0,0,1
+Dealer 88,brightergy llc,5,0,1
+Dealer 89,britestreet solar group,2,0,1
+Dealer 90,burtek energy llc,16,0.75,4
+Dealer 91,blake roofing,0,0,73
+Dealer 92,byers solar systems,162,0.333333333,6
+Dealer 93,cal valley solar,2,0,1
+Dealer 94,california premier solar,536,0.910447761,67
+Dealer 95,california solar concepts inc,2,0,1
+Dealer 96,california solar electric,126,0.666666667,9
+Dealer 97,california solar electric company,72,0.666666667,12
+Dealer 98,california solar engineering,2,0,1
+Dealer 99,bright house energy,0,0,54
+Dealer 100,"california solar innovators inc, dba calsolar",160,0.9,20
+Dealer 101,california solar systems,4,0,1
+Dealer 102,cape fear solar systems llc,20,0,1
+Dealer 103,capital city solar electric,33,1,11
+Dealer 104,capital energy conservation,2,0,1
+Dealer 105,capital sun group ltd,1,0,1
+Dealer 106,carnahan electric ltd / aes,2,0,1
+Dealer 107,catskill solar,2,0,1
+Dealer 108,cavalti llc,2,0,1
+Dealer 109,cell energy inc,2,0,1
+Dealer 110,century roof & solar,2,0,1
+Dealer 111,certasun llc,504,0.958333333,24
+Dealer 112,clary solar,2,0,1
+Dealer 113,clean currents solar,5,0,1
+Dealer 114,clean energy of america,2,0,1
+Dealer 115,clean energy usa llc,4,0,1
+Dealer 116,clean power systems,9,0,1
+Dealer 117,clean solar,5,0,1
+Dealer 118,clear solar solutions inc,3,0,1
+Dealer 119,castle energy,0,0,27
+Dealer 120,cm solar electric,2,1,2
+Dealer 121,coastline heating air conditioning,2,0,1
+Dealer 122,cobalt power systems,17,0,1
+Dealer 123,complete solar solutions,2,0,1
+Dealer 124,centurion solar energy llc,0,0,12
+Dealer 125,consolidated edison solutions inc,3,0,1
+Dealer 126,cool brew solar and electric,176,0.477272727,44
+Dealer 127,cool earth solar,2,0,1
+Dealer 128,citadel roofing and solar,0,0,3
+Dealer 129,cosmic solar,272,0.911764706,34
+Dealer 130,creative energies,4,0,1
+Dealer 131,cresttel,1,0,1
+Dealer 132,"CSI, dba vanguard energy",4,0,1
+Dealer 133,c-tec solar llc,8,1,2
+Dealer 134,custom electrical service llc,8,0.75,4
+Dealer 135,custom solar,2,0,1
+Dealer 136,cleantap energy llc,0,0,2
+Dealer 137,d&d plumbing heating and cooling,2,0,1
+Dealer 138,desert solar homes,1,0,1
+Dealer 139,diablo solar services,11,0,1
+Dealer 140,"cmh partners inc, dba sunrise805",0,0,1
+Dealer 141,distributed energy partners,4,0,1
+Dealer 142,district energy llc,2,0,1
+Dealer 143,divine power usa,4,0,1
+Dealer 144,dmv equity inc,12,1,4
+Dealer 145,do not use - former partner employees,381,0,1
+Dealer 146,dority roofing,1,0,1
+Dealer 147,downstream construction,3,0,1
+Dealer 148,e2 solar inc,13,0.5,2
+Dealer 149,earthlight technologies llc,366,0.786885246,61
+Dealer 150,eclipse energy and construction,456,0.828947368,76
+Dealer 151,eco solar llc,10,0,1
+Dealer 152,ecobilt energy systems,2,0,1
+Dealer 153,econo air,2,0,1
+Dealer 154,ecosolar usa,119,0.411764706,17
+Dealer 155,ecs energy ltd,3,0,1
+Dealer 156,"demarse electric, dba apex solar power",0,0,24
+Dealer 157,edge energy,11,0,1
+Dealer 158,electric tech construction inc,2,0,1
+Dealer 159,electrical contracting enterprises llc,2,0,1
+Dealer 160,electrical distribution services,5,0,1
+Dealer 161,empower solar,66,1,2
+Dealer 162,empower solar solutions,33,0.454545455,33
+Dealer 163,endurance solar & engineering,2,0,1
+Dealer 164,energized solar,2,0,1
+Dealer 165,energy builders inc,18,0.444444444,9
+Dealer 166,energy by choice ltd,8,0,1
+Dealer 167,energy concepts,318,0.65,80
+Dealer 168,earth smart solar,0,0,1
+Dealer 169,energy conservation services,1,0,1
+Dealer 170,energy efficiency solar,1,0,1
+Dealer 171,energy house,5,0,1
+Dealer 172,eclipse energy commercial llc,0,0,16
+Dealer 173,energy industries llc,14,0,1
+Dealer 174,energy plus solar inc,315,0.514285714,35
+Dealer 175,energy savers home performance,4,0,1
+Dealer 176,envinity inc,4,0,1
+Dealer 177,"environmental control inc, dba encon",8,1,1
+Dealer 178,esa solar energy llc,10,0.6,5
+Dealer 179,esmay electric,70,0.928571429,14
+Dealer 180,etm solar,4,0,1
+Dealer 181,fidelity roof company,1,0,1
+Dealer 182,fls energy,8,0,1
+Dealer 183,element power systems,0,0,2
+Dealer 184,frase electric llc,2,0,1
+Dealer 185,elite electric,0,0,132
+Dealer 186,freedom solar,39,1,3
+Dealer 187,elite system choice llc,0,0,3
+Dealer 188,freedom solar power,42,0,1
+Dealer 189,fresno economic opportunity commission,65,0,1
+Dealer 190,future energy corporation southern california,4,0,1
+Dealer 191,emt renewables,0,0,3
+Dealer 192,gaia energy systems,4,0,1
+Dealer 193,gary luke roofing,1,0,1
+Dealer 194,generation 819,3,0,1
+Dealer 195,genrenew llc,216,0.666666667,54
+Dealer 196,geo innovation llc,2,0,1
+Dealer 197,geogenix llc,32,0,1
+Dealer 198,geopeak energy llc,5,0,1
+Dealer 199,geoscape solar,10,1,5
+Dealer 200,get solarize,94,0.29787234,47
+Dealer 201,go solar electric llc,3,0,1
+Dealer 202,go solar/green ny llc,11,1,1
+Dealer 203,goggin energy,2,0,1
+Dealer 204,energyone renewables,0,0,1
+Dealer 205,golden energy inc,1,0,1
+Dealer 206,enlight energy llc,0,0,15
+Dealer 207,golden state solar inc,2,0,1
+Dealer 208,golden west energy,1,0,1
+Dealer 209,good energy renewables inc,4,1,1
+Dealer 210,good energy solutions,2,0,1
+Dealer 211,goosebumps inc,1,0,1
+Dealer 212,gosimplesolar.com by semper fidelis construction inc,1,0,1
+Dealer 213,evoke solar inc,0,0,3
+Dealer 214,granite expo & company inc,3,0,1
+Dealer 215,excel home solar,0,0,18
+Dealer 216,grassroots solar inc,11,0,1
+Dealer 217,green choice solar,4,0,1
+Dealer 218,green convergence,784,0.734693878,49
+Dealer 219,green energy group,6,0,1
+Dealer 220,green energy products llc,4,0,1
+Dealer 221,green power installers,2,0,1
+Dealer 222,green power professionals,1,0,1
+Dealer 223,fusion solar energy llc,0,0,9
+Dealer 224,green stream solar + electric,2,0,1
+Dealer 225,green street,4,0,1
+Dealer 226,green team li,8,0.5,2
+Dealer 227,green tech solutions inc,4,0,1
+Dealer 228,greenlogic llc,9,0,1
+Dealer 229,greenmind energy llc,1,0,1
+Dealer 230,grid alternatives,5,0,1
+Dealer 231,"halco, renewable energy division",9,0,1
+Dealer 232,hamilton solar,3,0,1
+Dealer 233,harmon electric inc,8,0,1
+Dealer 234,hawaii pv partners llc,2,0,1
+Dealer 235,global solar electric,0,0,1
+Dealer 236,"heat shed, a geogenix company",10,0,1
+Dealer 237,heliopower inc,4,0,1
+Dealer 238,heliotek corporation,2,0,1
+Dealer 239,herca solar,8,0,1
+Dealer 240,gold rush energy solutions,0,0,1
+Dealer 241,heritage solar inc,6,0,1
+Dealer 242,hes solar,620,0.870967742,31
+Dealer 243,hesolar,2,0,1
+Dealer 244,high noon solar & energy products,4,0,1
+Dealer 245,hi-power solar llc,11,0,1
+Dealer 246,home energy systems inc,6,0,1
+Dealer 247,"home networks, electric & solar inc",4,0,1
+Dealer 248,honey electric solar inc,1,0,1
+Dealer 249,honey's air & solar,24,0.833333333,6
+Dealer 250,hooked on solar,760,0.878947368,190
+Dealer 251,horizon energy systems,2,0,1
+Dealer 252,hot purple energy,4,0,1
+Dealer 253,hpm solar inc,3,0,1
+Dealer 254,hudson solar,17,0,1
+Dealer 255,green house solar,0,0,19
+Dealer 256,hunt electric corp,1,0,1
+Dealer 257,independent power systems,13,0,2
+Dealer 258,infinity energy,51,0.705882353,17
+Dealer 259,infinity solar systems,52,0.5,4
+Dealer 260,integrated energy systems,2,0,1
+Dealer 261,integrated power supplies international inc,1,0,1
+Dealer 262,intermountain wind and solar llc,2,0,1
+Dealer 263,island electric,4,0,1
+Dealer 264,islandwide solar llc,2,0,1
+Dealer 265,jamar electric san diego inc,2,0,1
+Dealer 266,jamar power systems,3,0,1
+Dealer 267,jersey solar llc,1,0,1
+Dealer 268,jk solar inc,2,0,1
+Dealer 269,harmony solar,0,0,1
+Dealer 270,joule energy,2,0,1
+Dealer 271,haven-electric,0,0,1
+Dealer 272,jp electric and solar,240,0.791666667,24
+Dealer 273,kama'aina solar solutions,2,0,1
+Dealer 274,kamtech solar solutions,245,0.693877551,49
+Dealer 275,kbi electric inc,56,0.678571429,28
+Dealer 276,kg solar and renewable energy llc,3,0,1
+Dealer 277,kps solar,5,0,1
+Dealer 278,kurios energy,60,0.6,10
+Dealer 279,kv solar supply,1,0,1
+Dealer 280,kw solar solutions,2,0,1
+Dealer 281,l&m roofing association llc,1,0,1
+Dealer 282,la solar group inc,6,0,1
+Dealer 283,legacy solar,336,0.8125,16
+Dealer 284,"legend ventures llc, dba legend solar",4,0,1
+Dealer 285,home smart construction,0,0,5
+Dealer 286,lifestyle solar inc,2,0,1
+Dealer 287,lifetime power,18,0.666666667,9
+Dealer 288,"lightwave solar electric, antioch",9,0,1
+Dealer 289,litchfield hills solar llc,2,0,1
+Dealer 290,living solar,2,0,1
+Dealer 291,lotus energy,16,0,1
+Dealer 292,luminalt,93,0.666666667,3
+Dealer 293,m. kahn solar inc,24,0.75,4
+Dealer 294,majestic son & sons inc,4,0,1
+Dealer 295,hytech solar inc,0,0,26
+Dealer 296,martifer solar,8,0,1
+Dealer 297,id earth centric solar llc,0,0,1
+Dealer 298,maui solar project llc,2,0,1
+Dealer 299,id solaron,0,0,2
+Dealer 300,"mauzy heating, air and solar",4,0,1
+Dealer 301,id the solar doctors llc,0,0,1
+Dealer 302,"mechanical energy systems inc, the solar specialist",2,0,1
+Dealer 303,ies residential inc,0,0,4
+Dealer 304,mendocino solar service,2,0,1
+Dealer 305,mercury solar systems inc,5,0,1
+Dealer 306,meridian solar inc,2,0,1
+Dealer 307,metro rf,2,0,1
+Dealer 308,infinium solar inc,0,0,22
+Dealer 309,milholland electric,272,0.852941176,34
+Dealer 310,insight solar,0,0,1
+Dealer 311,mimeos sustainability consultants,1,0,1
+Dealer 312,mira bella builders,2,0,1
+Dealer 313,mirasol solar,12,0.666666667,3
+Dealer 314,mission city construction inc,1,0,1
+Dealer 315,mohr power solar inc,5,0,1
+Dealer 316,"mosher enterprises inc, dba consolidated solar technologies (cst) albuquerque",25,0,1
+Dealer 317,mountain view solar,3,0,1
+Dealer 318,moxie solar inc,64,0.46875,32
+Dealer 319,jeff periera home energy inc,0,0,20
+Dealer 320,mr. solar,1,0,1
+Dealer 321,my solar llc,1,0,1
+Dealer 322,jit solar llc,0,0,3
+Dealer 323,namaster solar,98,0,1
+Dealer 324,natural energy,2,0,1
+Dealer 325,nb baker electric,15,0,1
+Dealer 326,nd burtek energy llc,1,0,1
+Dealer 327,nd enlight energy llc,1,0,1
+Dealer 328,nd ion solar pros llc,76,1,19
+Dealer 329,kapital electric inc,0,0,6
+Dealer 330,nd kamtech solar solutions,1,0,1
+Dealer 331,nd provoltz,1,0,1
+Dealer 332,nd quality home services,2,0,1
+Dealer 333,nd savkat inc,1,0,1
+Dealer 334,nd solar energy designs,2,0,1
+Dealer 335,kuykendall solar corporation,0,0,3
+Dealer 336,"nd tkh building service inc, dba revolt solar",2,0,1
+Dealer 337,"neil kelly co, dba mr. sun solar",1,0,1
+Dealer 338,new england clean energy llc,9,0,1
+Dealer 339,new york state solar farm inc,115,0.608695652,23
+Dealer 340,next solar inc,32,1,8
+Dealer 341,landmark solar,0,0,1
+Dealer 342,nextenergy corp,10,0,1
+Dealer 343,nm solar group inc,2,0,1
+Dealer 344,nogginhaus llc & runnemede phce,6,0,1
+Dealer 345,leonard roofing inc,0,0,443
+Dealer 346,north shore solar,1,0,1
+Dealer 347,northern pacific power systems inc,90,0.6,10
+Dealer 348,oak electric,4,0,1
+Dealer 349,occidental power,7,0,1
+Dealer 350,olympic sun,2,0,1
+Dealer 351,one solar,2,0,1
+Dealer 352,long island solar solutions,0,0,6
+Dealer 353,one world sustainable energy corp,2,0,1
+Dealer 354,pacific electric solar,2,0,1
+Dealer 355,lucent energy management inc,0,0,1
+Dealer 356,pacificsky solar llc,4,0,1
+Dealer 357,pavletich electric and communications inc,20,1,4
+Dealer 358,peak power solutions,2,0,1
+Dealer 359,m+s electric,0,0,9
+Dealer 360,peak solar designs llc,2,0,1
+Dealer 361,pell solar,4,0,1
+Dealer 362,perfect power inc,3,0,1
+Dealer 363,permacity corp,7,0,1
+Dealer 364,phat energy corporation,5,0,1
+Dealer 365,"philip a harris, dba pa harris electric",1,0,1
+Dealer 366,phoenix solar specialists llc,2,0,1
+Dealer 367,photon brothers,5,0,1
+Dealer 368,"pm&m electric inc, dba titan solar power",30,0.8,5
+Dealer 369,poco solar energy inc,8,0,1
+Dealer 370,"positive energy inc, new mexico",4,0,1
+Dealer 371,potere solar,4,0,1
+Dealer 372,power production management inc,7,0,1
+Dealer 373,power trip energy corp,14,0,1
+Dealer 374,powerhouse solar inc,42,0.666666667,6
+Dealer 375,precis solar,3204,0.842696629,89
+Dealer 376,momentum solar,0,0,11
+Dealer 377,prospect solar,2,0,1
+Dealer 378,provision solar inc,2,0,1
+Dealer 379,provoltz inc,10,0,1
+Dealer 380,psr,1,0,1
+Dealer 381,mr. roofing inc,0,0,1
+Dealer 382,pure energy solar inc,4,0,1
+Dealer 383,purepoint energy,50,0.8,5
+Dealer 384,pv squared,22,0,1
+Dealer 385,myers electric co,0,0,243
+Dealer 386,pv technology inc,4,0,1
+Dealer 387,quad state solar,1,0,1
+Dealer 388,nationwide solar llc,0,0,4
+Dealer 389,quality home services,1070,0.794392523,107
+Dealer 390,quantum llc,1,0,1
+Dealer 391,radiance solar,4,0,1
+Dealer 392,rainshadow solar & energy solutions inc,2,0,1
+Dealer 393,rayah solar,3,0,1
+Dealer 394,"real goods energy tech, dba real goods solar",6,0,1
+Dealer 395,redwood city electric,2,0,1
+Dealer 396,regional sales manager,2,0,1
+Dealer 397,renewable energy electric inc,2,0,1
+Dealer 398,renewable power systems llc,5,0,1
+Dealer 399,renewable rochester,6,0,1
+Dealer 400,"renewergy solutions group llc, dba solar & more",1,0,1
+Dealer 401,renova energy corp,2525,0.861386139,101
+Dealer 402,renovus energy inc,15,0,1
+Dealer 403,renu energy solutions,2,0,1
+Dealer 404,restart solar,7,0,1
+Dealer 405,revco solar engineering inc,5,0,1
+Dealer 406,revision energy inc,4,0,1
+Dealer 407,revolusun,39,0.8,5
+Dealer 408,revolution solar,2,0,1
+Dealer 409,rising sun llc,17,0,1
+Dealer 410,roofsimple inc,2,0,1
+Dealer 411,ross solar,13,0,1
+Dealer 412,rowe electric inc,2,0,1
+Dealer 413,rugg's construction,2,0,1
+Dealer 414,salt river solar & wind,3,0,1
+Dealer 415,salt service inc,5,0,1
+Dealer 416,savkat inc,140,0.771428571,35
+Dealer 417,scudder solar electrical energy systems,5,0,1
+Dealer 418,scurfield solar and heating,44,0.909090909,11
+Dealer 419,sea bright solar llc,693,0.743589744,117
+Dealer 420,secco inc,4,0,1
+Dealer 421,second generation energy llc,15,0.666666667,3
+Dealer 422,sel construction,2,0,1
+Dealer 423,petersen dean inc,0,0,245
+Dealer 424,semper solaris construction inc,10,0,1
+Dealer 425,sequoia solar,2,0,1
+Dealer 426,shippee solar and construction llc,4,0,1
+Dealer 427,sierra roofing & solar,1,0,1
+Dealer 428,simmitri inc,2,0,1
+Dealer 429,"plug it in systems, dba plug it in solar",0,0,8
+Dealer 430,simple solar systems,9,0,1
+Dealer 431,sky engineering,6,0,1
+Dealer 432,sky power systems,8,1,2
+Dealer 433,sky solar energy inc,10,0.7,10
+Dealer 434,skyway electric,1,0,1
+Dealer 435,power on solar,0,0,27
+Dealer 436,slingshot power,8,0,1
+Dealer 437,smart energy solar inc,3,0,1
+Dealer 438,smart home remodeling inc,2,0,1
+Dealer 439,smart solar llc,3,0,1
+Dealer 440,sol reliable inc,1,0,1
+Dealer 441,premier renewables llc,0,0,2
+Dealer 442,solaire energy systems systems,4,0,1
+Dealer 443,solar alliance of america inc,2,0,1
+Dealer 444,"solar communities, dba suncommon suncommon",12,0,1
+Dealer 445,solar distributors inc. inc,2,0,1
+Dealer 446,prvl energy,0,0,1
+Dealer 447,solar energy designs inc. inc,1,0,1
+Dealer 448,solar energy exchange inc,2,0,1
+Dealer 449,solar energy partners llc,4,0,1
+Dealer 450,solar energy solutions inc,2,0,1
+Dealer 451,solar energy solutions llc,3,0,1
+Dealer 452,solar energy systems,1,0,1
+Dealer 453,solar energy world,2,0,1
+Dealer 454,solar five llc,250,0.48,25
+Dealer 455,solar forward,20,0.5,2
+Dealer 456,solar generation,1,0,1
+Dealer 457,solar greenergy,1,0,1
+Dealer 458,solar holmes,2,0,1
+Dealer 459,solar hut llc,18,0.5,2
+Dealer 460,solar ki,2,0,1
+Dealer 461,reficiency llc,0,0,5
+Dealer 462,solar liberty energy systems,4,0,1
+Dealer 463,solar lights inc,1,0,1
+Dealer 464,solar maximum llc,3,0,1
+Dealer 465,solar mite solutions llc,18,0.785714286,14
+Dealer 466,solar panel solutions inc,1,0,1
+Dealer 467,solar plus llc,2,0,2
+Dealer 468,solar solution,2,0,1
+Dealer 469,solar solutions 4u inc,10,0.2,5
+Dealer 470,solar system inc,1,0,1
+Dealer 471,solar tec systems inc,2,0,1
+Dealer 472,rethink electric llc,0,0,49
+Dealer 473,solar technologies,340,0.705882353,17
+Dealer 474,solar topps,14,0,1
+Dealer 475,solar unlimited,5,0,1
+Dealer 476,solar vast,21,0.714285714,7
+Dealer 477,solar wave,1,0,1
+Dealer 478,solar works ca,10,0,1
+Dealer 479,solar wrights inc,8,0,1
+Dealer 480,solarcraft,5,0,1
+Dealer 481,solardelphia,8,0,1
+Dealer 482,solar-fit,4,0,1
+Dealer 483,solarmax renewable energy provider inc,2,0,1
+Dealer 484,solaron,3,0,1
+Dealer 485,solarone energy group llc,60,0.6,15
+Dealer 486,solarponics,2,0,1
+Dealer 487,solartech,132,0.696969697,66
+Dealer 488,solartistry,1,0,1
+Dealer 489,solforce systems inc,3,0,1
+Dealer 490,sol-tek industries,12,0,1
+Dealer 491,sonic solar energy,2,0,1
+Dealer 492,south coast solar,100,0.75,4
+Dealer 493,south mountain company,8,0,1
+Dealer 494,south sound solar,4,0,1
+Dealer 495,southard solar & construction,3,0,1
+Dealer 496,southern energy management,19,0,1
+Dealer 497,"southwest sustainable energy llc, dba border solar",4,0,1
+Dealer 498,standard solar inc,20,0,1
+Dealer 499,star installations inc,2,0,1
+Dealer 500,stellar solar electric,2030,0.75862069,58
+Dealer 501,skyline solar llc,0,0,21
+Dealer 502,straight up solar,2,0,1
+Dealer 503,streamline solar power systems llc,275,0.727272727,11
+Dealer 504,stroops accurate refrigerations inc,2,0,1
+Dealer 505,sullivan solar power,10,0,1
+Dealer 506,smart home energy source llc,0,0,6
+Dealer 507,summerwind solar llc,6,0,2
+Dealer 508,sun farm ventures,1,0,1
+Dealer 509,sun first! Inc,135,0.6,15
+Dealer 510,solar dad and sons inc,0,0,1
+Dealer 511,solar me,0,0,1
+Dealer 512,solar star llc,0,0,114
+Dealer 513,solar wolf energy,0,0,19
+Dealer 514,solarjuice american inc,0,0,3
+Dealer 515,solarm inc,0,0,6
+Dealer 516,solectric,0,0,4
+Dealer 517,sonray construction,0,0,241
+Dealer 518,SPD Self Installation (Berkeley),0,0,406
+Dealer 519,SPD Self Installation (Chicago),0,0,124
+Dealer 520,SPD Self Installation (Fresno),0,0,34
+Dealer 521,SPD Self Installation (New Jersey),0,0,232
+Dealer 522,SPD Self Installation (New York),0,0,97
+Dealer 523,SPD Self Installation (North L.A.),0,0,878
+Dealer 524,SPD Self Installation (Ontario),0,0,539
+Dealer 525,SPD Self Installation (Orlando),0,0,45
+Dealer 526,SPD Self Installation (Phoenix),0,0,260
+Dealer 527,SPD Self Installation (Sacramento),0,0,335
+Dealer 528,SPD Self Installation (San Diego),0,0,284
+Dealer 529,SPD Self Installation (San Jose),0,0,242
+Dealer 530,state solar initiative,0,0,5
+Dealer 531,summit solar ip,0,0,11
+Dealer 532,summit solar solutions,0,0,8
+Dealer 533,sun light & power,2,1,1
+Dealer 534,sun metrics corporation,3,0,1
+Dealer 535,sun pacific solar electric inc,4,1,1
+Dealer 536,sun solar,3927,0.732620321,374
+Dealer 537,"sun source, dba lighthouse solar",2,0,1
+Dealer 538,sun up zero down llc,0,0,3
+Dealer 539,sun valley solar inc,465,0.666666667,15
+Dealer 540,sunation solar systems inc,14,0,1
+Dealer 541,sunbelt solar energy,4,0,1
+Dealer 542,sunblue energy,1,0,1
+Dealer 543,sunbug solar llc,6,0,1
+Dealer 544,suncraft solar,2,0,1
+Dealer 545,sundance power systems,2,1,1
+Dealer 546,sundial solar innovations llc,0,0,1
+Dealer 547,sundial solar llc,0,0,6
+Dealer 548,sunergy systems,6,0,1
+Dealer 549,sunetric,45,0,1
+Dealer 550,sunfiniti of wisconsin,2,0,1
+Dealer 551,sunharvest solar,2,0,1
+Dealer 552,sunlectric inc,2,0,1
+Dealer 553,sunlight solar energy inc,9,0,2
+Dealer 554,sunlight solar systems,1,0,1
+Dealer 555,sunmade energy inc,4,0.9,20
+Dealer 556,sunnymac,1080,0.577777778,45
+Dealer 557,sunon energy,4,0.5,2
+Dealer 558,sunpower applications and technical support,83,0,1
+Dealer 559,sunpro solar,88,0.818181818,11
+Dealer 560,sunrise solar inc,4,1,2
+Dealer 561,sunrise solar solutions inc,20,0.8,5
+Dealer 562,suns up solar,1,0,1
+Dealer 563,sunsational solar electric,2,0,1
+Dealer 564,sunsense inc,8,0,1
+Dealer 565,sunshine pacific group america inc,10,1,2
+Dealer 566,sunspear energy llc,2,0,1
+Dealer 567,sunstore solar,5,0,1
+Dealer 568,sunsystem technology inc,0,0,211
+Dealer 569,suntalk solar,1,0,1
+Dealer 570,suntime energy builders,21,0,1
+Dealer 571,suntuity,4,0,1
+Dealer 572,sunworks inc,6,1,1
+Dealer 573,sunworks solar systems inc,5,0,1
+Dealer 574,sustainable future,2,0,1
+Dealer 575,swan solar,3,0,1
+Dealer 576,swg energy,8,0,1
+Dealer 577,switch electric llc,1,0,1
+Dealer 578,synergy 768 inc,22,0.692307692,13
+Dealer 579,synergy smart homes llc,0,0,9
+Dealer 580,t&g roofing company inc,3,0,1
+Dealer 581,"taitem engineering, pc",7,0,1
+Dealer 582,tayco electric and solar inc,6,0,1
+Dealer 583,technicians for sustainability,13,0,1
+Dealer 584,terrasol energies inc,4,0,1
+Dealer 585,the boston solar company,6,1,1
+Dealer 586,the crew solar llc,0,0,3
+Dealer 587,the energy savings store,2,0,1
+Dealer 588,the energy shop inc,2,0,1
+Dealer 589,the entech group,3,0,1
+Dealer 590,the solar company,54,0,1
+Dealer 591,the solar quote llc,93,0.741935484,31
+Dealer 592,third sun solar,3,0,1
+Dealer 593,thompson and son energy,16,0.5,4
+Dealer 594,thor electric,0,0,10
+Dealer 595,titan solar construction,6,0,1
+Dealer 596,todays energy store llc,152,0.921052632,38
+Dealer 597,training support group,15,0,1
+Dealer 598,treepublic inc,4,0,1
+Dealer 599,"trinity construction enterprises inc, dba trinity power",26,0.769230769,13
+Dealer 600,triple line solar,2,0,1
+Dealer 601,true power solar,90,0.8,15
+Dealer 602,true south solar inc,4,0,1
+Dealer 603,tsp solutions,4,0,1
+Dealer 604,ultra solar & wind solutions llc,2,0,1
+Dealer 605,urban energy,48,0.9375,16
+Dealer 606,us solarworks llc,4,0,1
+Dealer 607,usnoa inc,1,0,1
+Dealer 608,"valley heating, cooling, electrical",1,0,1
+Dealer 609,"valley pacific builders inc, dba pacific solar",48,0.916666667,12
+Dealer 610,valley solar inc,12,1,3
+Dealer 611,vantage home solar llc,8,1,8
+Dealer 612,venture solar,495,0.606060606,33
+Dealer 613,verengo inc,6,1,3
+Dealer 614,via solar,6,0,1
+Dealer 615,vinyasun,0,0,32
+Dealer 616,viridis energy,0,0,12
+Dealer 617,vision solar llc,236,0.576271186,59
+Dealer 618,vista solar,1,0,1
+Dealer 619,volt modern,0,0,6
+Dealer 620,voltaic solaire,0,0,2
+Dealer 621,wegen solar inc,2,0,1
+Dealer 622,western sierra roofing,1,0,1
+Dealer 623,western sun systems,2,0,1
+Dealer 624,westhaven solar & construction,8,0,1
+Dealer 625,wildwood aquatech pools,2,0,1
+Dealer 626,windor,1,0,1
+Dealer 627,xero solar,5,0,1
+Dealer 628,yellowlite,2,0,1
+Dealer 629,yes solar solutions,9,0,3
