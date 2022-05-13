@@ -1,4 +1,5 @@
 # %%Dash v2
+from logging import PlaceHolder
 from dash import Dash, dcc, html, Input, Output
 import plotly.express as px
 import pandas as pd
@@ -12,7 +13,7 @@ server = app.server
 
 #fig = px.scatter(df, y="Pass Rate", x="Courses Taken", color="Code", size="Courses Taken", trendline="ols")
 #fig1 = px.scatter(df1, y="pass_rate", x="courses_taken", color="Code", size="Number of Audits", trendline="ols")
-fig = px.scatter(df1, y="pass_rate", x="courses_taken", color="Name", size="Number of Inspections", trendline="ols")
+fig = px.scatter(df1, x="Number of Inspections", y="pass_rate", color="Name", trendline="ols")
 
 app.layout = html.Div(children=[
     html.H1(children='FLAM Dashboard'),
@@ -22,8 +23,21 @@ app.layout = html.Div(children=[
     '''),
 
     html.Div(children='''
-        Hover over a dot to see which SPRI/Dealer it represents, number of courses taken, and average pass rate.
+        Hover over a dot to see which SPRI/Dealer it represents, number of courses taken, number of audits, and average pass rate.
     '''),
+
+    html.Div(children='''
+        Choose number of courses below:
+    '''),
+
+    dcc.Dropdown(
+        style = {'text-align': 'center', 'font-size': '18px', 'width': '120px'},
+        options=df1['courses_taken'].unique(),
+        value = 1, 
+        id='courses-dropdown',
+        placeholder="Select # of courses taken",
+        clearable=False),
+    html.Div(id='dd-output-container'),
 
     dcc.Graph(
         id='all-graph',
@@ -51,15 +65,17 @@ app.layout = html.Div(children=[
 
 @app.callback(
     Output('all-graph', 'figure'),
-    Input('passrate-slider', 'value'))
+    [Input('passrate-slider', 'value'),
+    Input('courses-dropdown', 'value')])
 
-def update_figure(selected_passrate):
-    filtered_df = df1[df1.pass_rate <= selected_passrate]
+def update_figure(pass_rate, courses_taken):
 
-    fig = px.scatter(filtered_df, x="courses_taken", y="pass_rate", color="Name", size="Number of Inspections", trendline="ols")
+    filtered_df = df1[df1.pass_rate <= pass_rate] and df1[df1.courses_taken == courses_taken]
+    fig = px.scatter(filtered_df, x="Number of Inspections", y="pass_rate", color="Name", trendline="ols")
     fig.update_layout(transition_duration=500)
 
     return fig
+
 
 if __name__ == '__main__':
     app.run_server()
