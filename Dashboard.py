@@ -65,12 +65,12 @@ app.layout = html.Div(children=[
 
 @app.callback(
     Output('all-graph', 'figure'),
-    [Input('passrate-slider', 'value'),
-    Input('courses-dropdown', 'value')])
+    [Input('passrate-slider', 'value')])
+    #Input('courses-dropdown', 'value')])
 
-def update_figure(pass_rate, courses_taken):
+def update_figure(pass_rate):
 
-    filtered_df = df1[df1.pass_rate <= pass_rate] and df1[df1.courses_taken == courses_taken]
+    filtered_df = df1[df1.pass_rate <= pass_rate]# and df1[df1.courses_taken == courses_taken]
     fig = px.scatter(filtered_df, x="Number of Inspections", y="pass_rate", color="Name", trendline="ols")
     fig.update_layout(transition_duration=500)
 
